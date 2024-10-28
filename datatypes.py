@@ -12,3 +12,4 @@ my_dictionary = {"name":"kennedy", "salary":500000}
 print(type(my_complex))
 print(56<4)
 print(6>2)
+print('I love python')
